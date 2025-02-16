@@ -61,7 +61,3 @@ personal-finance-visualizer/
 2. **View Transactions**: All transactions are listed below the form.
 3. **Delete Transactions**: Click the "Delete" button to remove an entry.
 4. **View Expense Chart**: A bar chart dynamically updates based on your transactions.
-
-   
-🚀 Happy Coding! If you have any questions, feel free to reach out.
-
